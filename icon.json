@@ -1,6 +1,10 @@
 {
   "name":"分类图标", 
+  "description":"None",
   "icons":[    
-    {"name":"over-knee socks", "url":"https:\/\/github.com\/TimCStar\/JClassIcon\/blob\/main\/Icons\/over-knee%20socks.png?raw=true"}
- ]
+    {
+        "name":"over-knee socks", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/over-knee%20socks.png?raw=true"
+    }
+    ]
 }
