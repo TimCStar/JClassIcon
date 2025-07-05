@@ -3,8 +3,60 @@
   "description":"None",
   "icons":[    
     {
-        "name":"guoxiwa", 
-        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/over-knee%20socks.png?raw=true"
+        "name":"过膝袜", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/guoxiwa.png?raw=true"
+    },
+    {
+        "name":"丝袜", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/siwa.png?raw=true"
+    },
+    {
+        "name":"黑丝", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/heisi.png?raw=true"
+    },
+    {
+        "name":"肉丝", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/rousi.png?raw=true"
+    },
+    {
+        "name":"渔网", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/yuwang.png?raw=true"
+    },
+    {
+        "name":"婚纱", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/hunsha.png?raw=true"
+    },
+    {
+        "name":"女仆", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/nvpu.png?raw=true"
+    },
+    {
+        "name":"旗袍", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/qipao.png?raw=true"
+    },
+    {
+        "name":"兽耳", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/shouer.png?raw=true"
+    },
+    {
+        "name":"水着", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/shuizhuo.png?raw=true"
+    },
+    {
+        "name":"兔女郎", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/tunvlang.png?raw=true"
+    },
+    {
+        "name":"校服", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/xiaofu.png?raw=true"
+    },
+    {
+        "name":"眼镜娘", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/yanjingniang.png?raw=true"
+    },  
+    {
+        "name":"运动", 
+        "url":"https://github.com/TimCStar/JClassIcon/blob/main/Icons/yundong.png?raw=true"
     }
-    ]
+  ]
 }
